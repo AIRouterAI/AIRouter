@@ -1,8 +1,5 @@
 # AIRouter: AI-Powered Decentralized Action Engine
 
-<div align="center">
-  <img src="public/images/logo.png" alt="AIRouter Logo" width="200"/>
-</div>
 # AIRouter
 ![AIRouter Logo](https://raw.githubusercontent.com/AIRouterAI/AIRouter/main/AIRouter/public/images/AIRouter%20logo.jpeg)
 
