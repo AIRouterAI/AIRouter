@@ -3,6 +3,7 @@
 <div align="center">
   <img src="public/images/logo.png" alt="AIRouter Logo" width="200"/>
 </div>
+![AIRouter Logo](https://raw.githubusercontent.com/AIRouterAI/AIRouter/main/AIRouter/public/images/AIRouter%20logo.jpeg)
 
 ![Version](https://img.shields.io/badge/version-1.0.0-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
